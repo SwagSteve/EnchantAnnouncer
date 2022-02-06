@@ -10,7 +10,7 @@
 
 
 
-### Placeholders Available:
+### <ins>Placeholders Available:</ins>
 
 #### %itemname% = Name of enchanted item.
 #### %player% = Player enchanting the item.
