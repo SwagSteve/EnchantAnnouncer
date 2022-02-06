@@ -8,6 +8,8 @@
 
 ### Simply Use The Config To Set A Custom Message To Announce.
 
+
+
 ### Placeholders Available:
 
 #### %itemname% = Name of enchanted item.
