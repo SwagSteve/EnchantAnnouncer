@@ -1,0 +1,6 @@
+name: EnchantAnnouncer
+version: ${project.version}
+main: com.swagsteve.enchantannouncer.EnchantAnnouncer
+api-version: 1.18
+commands:
+  ea-reload:

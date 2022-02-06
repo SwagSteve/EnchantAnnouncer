@@ -1,0 +1,5 @@
+Messages:
+  # AnnounceMessage - Edit announce message, color codes supported. "%player%" = enchanter, %itemname% = item's name, "%enchants" = list of enchants applied.
+  AnnounceMessage: '&a&l%player% Just Enchanted Their %itemname% With &r&c&l%enchants%'
+  # DontAnnounceAdminEnchanting - Don't announce admin enchants.
+  DontAnnounceAdminEnchanting: false
